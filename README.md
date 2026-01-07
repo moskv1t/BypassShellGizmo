@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=42 />
+  <img src="https://c.tenor.com/YOvMskHRiX8AAAAd/tenor.gif" height=42 />
 </div>
 <div align="center">
 <strong>ОБХОД ОБОЛОЧКИ ГИЗМО</strong>
@@ -129,6 +130,7 @@ __Выполняет запуск запуск запрета.__
 ---
 
 > 🚀 Удачи! И помните: *«Знание — сила, но ответственность — её тень».*
+
 
 
 
