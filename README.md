@@ -1,8 +1,8 @@
-<div style="font-weight: bold; font-size: 42; text-align: center;">
+<div align="center">
   <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=42 />
 </div>
-<div style="font-weight: bold; font-size: 42; text-align: center;">
-ОБХОД ОБОЛОЧКИ ГИЗМО
+<div align="center">
+**ОБХОД ОБОЛОЧКИ ГИЗМО**
 </div>
 
 > [!CAUTION]
