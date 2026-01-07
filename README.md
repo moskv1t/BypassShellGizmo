@@ -3,6 +3,7 @@
 </div>
 <div align="center">
 <strong>ОБХОД ОБОЛОЧКИ ГИЗМО</strong>
+  
 </div>
 
 > ⚠ **ВАЖНО: ЛЕГАЛЬНОСТЬ**
