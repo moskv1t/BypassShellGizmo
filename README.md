@@ -2,6 +2,7 @@
   <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=42 />
 </div>
 <div align="center">
+  <http://webdesign.ru.net>
 ОБХОД ОБОЛОЧКИ ГИЗМО
 </div>
 
