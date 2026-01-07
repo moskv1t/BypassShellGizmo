@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=42 />
+  <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=60 />
 </div>
 <div align="center">
 <strong>ОБХОД ОБОЛОЧКИ ГИЗМО</strong>
