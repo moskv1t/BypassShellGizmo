@@ -43,7 +43,7 @@
     ```PowerShell
     Invoke-WebRequest -Uri 'https://example.com/file.zip'
     ```
-  - `-OutFile` - параметр пути сохранения файл(куда мы его сохраняем).
+  - `-OutFile` - параметр пути сохранения файла(куда мы его сохраняем).
     
     ```PowerShell
     Invoke-WebRequest -Uri 'https://example.com/script.ps1' -OutFile 'C:\Temp\script.ps1'
