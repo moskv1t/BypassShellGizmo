@@ -1,4 +1,6 @@
 <div align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAPFBMVEX+//9HcExWpcVcqMdWpsZWpsZXpsZWpcVVpsZWpsZVpcVWpsZaqMhXpsZWpsZQmrlVpcVJjalBf5hIi6ctwZAmAAAAFHRSTlMBAC0Pic94Yfj/uqcfUe//4v/raRCohX8AAACaSURBVHgBrdJFAkMxCATQEp+43P+s1W/UbbYvCuz+HaInJAQ9Iqm0oQdmtcM9JCLhHeAm5M8QAcA9pF1UDneRKFqNKToRf6L1mJJD2CJR8rmUiwXlq6HNiT4DKK0B+kibOymqjEtaH8IDW5QLIhuGl71hYofaW7kgexCmlFYY8q+gPC0Cwym8fK8L/6JlLLzZr8fk1YDxp/2UA44dCJTAqwrsAAAAAElFTkSuQmCC" height=28 /> <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
+  ОБХОД ОБОЛОЧКИ ГИЗМО
+  <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=28 /> <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
 </div>
 В данном репозитории вы найдете подробный туториал обходу оболочки в нашем любимом пк клубе Pixel. Из за недавней урезки оболочки нам вырвали руки что бы мы помогали людям. Факт: Автор этого репозитория нашел этот обход оболочки меньше чем за 10 минут. Очень надеюсь данный репозиторий поможет нашим админам справится с данной проблемой. Удачи вам
+https://gizmopowered.ru/images/gizmo-logo.svg
