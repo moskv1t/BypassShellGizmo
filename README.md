@@ -1,4 +1,4 @@
-<div align="center">
+<div style="font-weight: bold; font-size: 42; text-align: center;">
   <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=42 />
 </div>
 <div align="center">
